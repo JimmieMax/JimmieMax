@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-I recommend a website: http://geek-assistant.com
+I recommend a website: https://geek-assistant.com
 
 <!---
 JimmieMax/JimmieMax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
